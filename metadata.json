@@ -1,0 +1,6 @@
+{
+  "name": "Crackers Shop Billing Management System",
+  "description": "Professional desktop and mobile offline billing management system for fireworks and crackers shops with SQLite storage, WhatsApp digital bills, product management, and sales reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
